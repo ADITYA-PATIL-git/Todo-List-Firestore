@@ -1,6 +1,6 @@
 # todo_bloc_firestore
 
-A new Flutter project.
+Todo List and Task Manager App built with Flutter and Firestore.
 
 ## Getting Started
 
